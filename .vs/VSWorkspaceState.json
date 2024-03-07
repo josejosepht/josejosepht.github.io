@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\js"
+    "\\css",
+    "\\css\\bootstrap",
+    "\\js",
+    "\\js\\particles"
   ],
-  "SelectedNode": "\\js\\contact",
+  "SelectedNode": "\\js\\particles\\particles.js",
   "PreviewInSolutionExplorer": false
 }
