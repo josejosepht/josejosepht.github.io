@@ -2,7 +2,7 @@
 require __DIR__ . '/captcha.php';
 require __DIR__ . '/email-utils.php';
 
-const RECIPIENT_ADDRESS = "michalskidaniel2@gmail.com";
+const RECIPIENT_ADDRESS = "joseinpvv@gmail.com";
 
 if (!$_POST) exit;
 
