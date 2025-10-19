@@ -2,4 +2,4 @@
 
 Site under construction 
 
-Forker from https://github.com/DanielMichalski/responsive-personal-website/tree/master
+Forked from https://github.com/DanielMichalski/responsive-personal-website/tree/master
